@@ -1,0 +1,16 @@
+.form{width: 100%;
+background-color: red;}
+
+
+.card{
+    width: 60%;
+    margin: auto;
+    background-color: #cef5b8;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+
+
+}
